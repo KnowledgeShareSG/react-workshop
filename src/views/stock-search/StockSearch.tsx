@@ -48,7 +48,7 @@ export interface StockSearchProps {
 
 export const StockSearch = ({ onSelect }: StockSearchProps) => {
   // CODEALONG 02.01: change the input into a controlled input + link with search query
-  let searchTerm = '';
+  const [searchTerm, setSearchTerm] = useState('');
   // CODEALONG 02.02: change the input into a controlled input + link with search query
   const { results, loading } = useStockSearch('');
   return (
@@ -56,6 +56,8 @@ export const StockSearch = ({ onSelect }: StockSearchProps) => {
       <Command className="w-full border">
         <CommandInput
           placeholder="Search stocks by name or symbol..."
+          value={''} // let the input accept the searchTerm
+          onValueChange={() => { /* do nothing */}} // update the state when input is changed
           className="w-full h-10 px-3 text-sm"
         />
         {loading && (
