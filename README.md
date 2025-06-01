@@ -291,3 +291,4 @@ Hooks - https://codesandbox.io/p/sandbox/react-ts
 - [Completed Project](https://github.com/KnowledgeShareSG/react-workshop-updated)
 - [React Hooks Demo](https://codesandbox.io/p/sandbox/react-ts)
 - [Figma Project](https://www.figma.com/design/fgMigTzRKKqWzNeG5VOs44)
+- [Workshop Slides](https://docs.google.com/presentation/d/1vrGE-dJOweeV9b8f7Bi713IZE-72Es4blG7K1HcycT0/edit?usp=sharing)
