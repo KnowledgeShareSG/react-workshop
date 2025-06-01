@@ -1,6 +1,8 @@
 # Introduction to React
 Welcome to the React Workshop! In this workshop, you will learn React concepts by building a stock market application with a search functionality and stock metadata display.
 
+End of workshop: [End of Workshop Links](#end-of-workshop-links)
+
 ## Workshop Structure
 - Part 1: Environment Setup
 - Part 2: Creating React Components (Stock Card)
@@ -283,3 +285,9 @@ export default tseslint.config({
 
 ## DEMO Links
 Hooks - https://codesandbox.io/p/sandbox/react-ts
+
+# End of Workshop Links
+
+- [Completed Project](https://github.com/KnowledgeShareSG/react-workshop-updated)
+- [React Hooks Demo](https://codesandbox.io/p/sandbox/react-ts)
+- [Figma Project](https://www.figma.com/design/fgMigTzRKKqWzNeG5VOs44)
